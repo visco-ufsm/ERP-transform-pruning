@@ -8,9 +8,9 @@ submitted to *IEEE Access*.
 ## Authors
 
 - Thiago L. T. da Silveira (UFSM, Brazil)
-- Enzo G. Segala (UFRGS, Brazil)
+- Enzo B. Segala (UFRGS, Brazil)
 - Fábio M. Bayer (UFSM, Brazil)
-- Renato J. Cintra (UFPE, Brazil)
+- R. J. Cintra (UFPE, Brazil)
 
 ## Overview
 
@@ -69,7 +69,7 @@ If you use this code in your research, please cite the associated paper:
 ```bibtex
 @article{silveira2026geometry,
   title={Geometry-Aware Transform Pruning for Omnidirectional Image Compression},
-  author={Silveira, Thiago L. T. da and Segala, Enzo G. and Bayer, F{\'a}bio M. and Cintra, R. J.},
+  author={Silveira, Thiago L. T. da and Segala, Enzo B. and Bayer, F{\'a}bio M. and Cintra, R. J.},
   journal={IEEE Access},
   note = {Submitted},
   year={2026}
