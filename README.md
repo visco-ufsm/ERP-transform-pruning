@@ -46,9 +46,9 @@ Install the required packages using:
 ```bash
 pip install -r requirements.txt
 ```
-## Running the Experiments
+## Running the Experiment
 
-The main experiment can be executed using:
+The example implementation can be executed using:
 
 ```bash
 python main.py
