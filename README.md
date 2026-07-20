@@ -2,8 +2,7 @@
 
 This repository contains the reference implementation associated with the paper:
 
-**“Geometry-Aware Transform Pruning for Omnidirectional Image Compression”**  
-submitted to *IEEE Access*.
+**“Geometry-Aware Transform Pruning for Omnidirectional Image Compression”**  submitted to *IEEE Access*.
 
 ## Authors
 
