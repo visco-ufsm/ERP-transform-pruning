@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
     filename = 'sample/PoleVault_le_3840x1920_30fps_8bit_420_erp_0.bmp'
     I = imread(filename, as_gray=True).astype(np.float32) * 255
-    QF = 5                
+    QF = 50 # Change this value to see how the method performs compared to JPEG.               
 
     # ------------------------------------------------------------
     # Run the JPEG baseline
