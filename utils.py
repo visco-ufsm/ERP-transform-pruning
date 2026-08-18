@@ -59,4 +59,6 @@ def quantization_matrix(QF):
         [72, 92, 95, 98, 112, 100, 103, 99],
     ])
 
-    return np.floor((S * Q0 + 50) / 100)
+    Q = np.floor((S * Q0 + 50) / 100)
+    Q = np.maximum(Q, 1) # This line avoids Q having null entries, which would ultimately lead to zero divisions. 
+    return Q
